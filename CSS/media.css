@@ -1,0 +1,311 @@
+@media (max-width: 1164px) {
+	.info__title {
+		font-size: 15px;
+	}
+	.info__text {
+		font-size: 15px;
+	}
+	.info__item {
+		padding: 25px;
+	}
+	.process__h4 {
+		font-size: 15px;
+	}
+	.process__text {
+		font-size: 15px;
+	}
+}
+
+@media (max-width: 1080px) {
+	.info__title {
+		letter-spacing: unset;
+	}
+	.process__h4 {
+		letter-spacing: unset;
+	}
+}
+@media (max-width: 1051px) {
+	.understanding__wrapper {
+		flex-direction: column;
+	}
+	.understanding__img {
+		margin-top: 55px;
+	}
+}
+
+
+@media (max-width: 992px) {
+	
+	.process__h3 {
+		font-size: 35px;
+	}
+	.cards__content {
+		height: 400px; 
+	}
+	.intro__content {
+		height: 500px;
+	}
+	.info__item {
+		padding: 20px;
+	}
+	.header__logo img {
+			height: 55px;
+	}
+	.intro__title {
+		font-size: 42px;
+	}
+	.intro__title {
+		width: 100%;
+		text-align: center;
+	}
+	.footer__wrapper {
+		height: 100px;
+	}
+}
+
+@media (max-width: 880px) {
+	.info__item {
+		padding: 10px;
+	}
+	.info__text {
+		font-size: 13px;
+	}
+}
+
+
+
+@media (max-width: 768px) {
+	.info {
+		transform: translateY(10%);
+	}
+	.info__wrapper {
+		flex-direction: column;
+		align-items: center;
+    	margin-bottom: 95px;
+	}
+	.info__item {
+		padding: 20px;
+	}
+	.info__block {
+		width: 60%;
+	}
+	.info__block {
+		padding-bottom: 20px;
+	}
+	.intro__content {
+		height: 403px;
+	}
+	.intro__title {
+		font-size: 37px;
+		height: 71px;
+		line-height: 122%;
+	}
+	.info__text {
+		font-size: 15px;
+	}
+	.btn {
+		height: 37px;
+		min-width: 157px;
+
+	}
+	.intro__block {
+		margin-top: 87px;
+	}
+	.ourserv {
+		text-align: center;
+	}
+	.cards__content {
+		height: 477px;
+	}
+	.understanding {
+		padding: 67px 0;
+	}
+	.wrapper__bottomn {
+		margin-bottom: -32px;
+    	margin-top: 24px;
+	}
+	.footer__wrapper {
+		flex-direction: column;
+    	justify-content: space-around;
+	}
+	.info__item {
+		text-align: center;
+	}
+	.cards {
+		flex-direction: column;
+    	align-items: center;
+		margin-bottom: -74px;
+	}
+	.block__cards {
+		width: 400px;
+	}
+	.cards__title {
+		text-align: center;
+		margin-bottom: 29px;
+	}
+	
+	.process__h2 {
+		font-size: 80px;
+		margin-top: -66px;
+	}
+	.process__h3 {
+		font-size: 23px;
+	}
+	.contacts__form {
+		margin: 0 auto;
+	}
+	.contacts__h2 {
+		text-align: center;
+	}
+	.contacts {
+		padding: 40px 0;
+	}
+	.process {
+		padding: 59px 0;
+	}
+	.info__block {
+		width: 100%;
+	}
+}
+
+@media (max-width: 637px) {
+	.btn {
+		margin-top: 117px;
+	}
+	.nav__link {
+		margin-right: 27px;
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 576px) {
+	.header__logo img {
+		height: 34px;
+	}
+	.nav__link {
+		font-size: 10px;
+	}
+	.header__leng-link {
+		font-size: 12px;
+	}
+	.intro__content {
+		height: 305px;
+	}
+	.intro__title {
+		font-size: 28px;
+		height: 49px;
+		line-height: 148%;
+	}
+	.understanding__title {
+		font-size: 23px;
+
+	}
+	.understanding__p {
+		font-size: 12px;
+		margin-bottom: -22px;
+		margin-top: -8px;
+	}
+	.understanding__a {
+		font-size: 15px;
+	}
+	.understanding__img {
+		margin-top: 22px;
+		width: 400px;
+	}
+	.understanding {
+		padding: 33px 0;
+		text-align: center;
+	}
+	.process__h2 {
+		font-size: 69px;
+	}
+	.contacts__h2 {
+		font-size: 26px;
+	}
+	.info__block {
+		width: 100%;
+	}
+}
+
+
+@media (max-width: 508px) {
+	.nav {
+		display: none;
+	}
+	.intro__title {
+		font-size: 26px;
+		height: 26px;
+		line-height: 134%;
+	}
+	.btn {
+		height: 28px;
+		min-width: 140px;
+		margin-top: 82px;
+	}
+	.understanding__img {
+		width: 329px;
+	}
+	.block__cards {
+		width: 317px;
+	}
+	.understanding__title {
+		font-size: 19px;
+		max-width: 299px;
+		display: initial;
+	}
+	.understanding__p {
+		max-width: 230px;
+		display: table-footer-group;
+	}
+	.process__h2 {
+		font-size: 48px;
+	}
+	.copiright {
+		font-size: 12px;
+		letter-spacing: 0.1em;
+	}
+	.footer__socials-linc {
+		margin-left: 11px;
+	}
+}
+
+
+
+@media (max-width: 375px) {
+	.nav {
+		display: none;
+	}
+	.intro__title {
+		font-size: 19px;
+		height: 26px;
+		line-height: 134%;
+	}
+	.btn {
+		height: 28px;
+		min-width: 140px;
+	}
+	.understanding__img {
+		width: 329px;
+	}
+	.block__cards {
+		width: 317px;
+	}
+	.understanding__title {
+		font-size: 19px;
+		max-width: 299px;
+	}
+	.understanding__p {
+		max-width: 230px;
+		display: table-footer-group;
+	}
+	.process__h2 {
+		font-size: 48px;
+	}
+	.copiright {
+		font-size: 12px;
+		letter-spacing: 0.1em;
+	}
+	.footer__socials-linc {
+		margin-left: 11px;
+	}
+}
